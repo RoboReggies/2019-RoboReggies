@@ -1,0 +1,17 @@
+#include <kipr/botball.h>
+
+void linefollow(int color, int mtime, int amt_sensor)//states what the fuction name is and the parameters the function will be using
+{
+  switch(mtime)//
+  {
+    
+  }
+  switch(color)//
+  {
+    
+  }
+  switch(amt_sensor)//
+  {
+    
+  }
+}
